@@ -1,19 +1,20 @@
-# Mulkey Studios Website V4 Overhaul
+# Mulkey Studios Website V7 Review Ready
 
-This version shifts the website from a general creator-network landing page to a stronger creator acquisition site.
+This version removes third-party platform names from the public website copy and positions Mulkey Studios as an independent creator-first LIVE support organization.
 
 Main message:
-- TikTok LIVE support for creators who want to grow
+- Creator-first LIVE support
 - Free to apply
 - LIVE access required
-- No forced battles
+- No forced format
 - No fake guarantees
 - Creator pathways and technical support emphasized
 
 Current application link:
 https://docs.google.com/forms/d/e/1FAIpQLScizjzYyWdlvEszIaoMdwVLdvtVYJdFFQkHZZU1cQcKZzZQGg/viewform?usp=header
 
-When TikTok provides an official Creator Network link, update the links in apply.html.
-
-
-V5 update: simplified creator pathways to Gaming, Battle, and Chat.
+Deployment reminder:
+- Make sure the website is public before resubmitting.
+- Test the exact homepage URL in a private/incognito window.
+- Test on mobile and desktop.
+- Make sure the application form opens without needing owner-only access.
