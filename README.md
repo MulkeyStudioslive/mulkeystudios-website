@@ -10,11 +10,16 @@ Main message:
 - No fake guarantees
 - Creator pathways and technical support emphasized
 
-Current application link:
-https://docs.google.com/forms/d/e/1FAIpQLScizjzYyWdlvEszIaoMdwVLdvtVYJdFFQkHZZU1cQcKZzZQGg/viewform?usp=header
+Current official TikTok/Backstage application link:
+https://www.tiktok.com/t/ZTBUme15k/
 
 Deployment reminder:
 - Make sure the website is public before resubmitting.
 - Test the exact homepage URL in a private/incognito window.
 - Test on mobile and desktop.
-- Make sure the application form opens without needing owner-only access.
+- Make sure the official TikTok application link opens correctly on mobile and desktop.
+
+
+Update note:
+- Replaced the old Google Form link with the official TikTok/Backstage Creator Network application link.
+- Application flow now explains that TikTok checks eligibility first, then Mulkey Studios can send the official Backstage invite if eligible.
