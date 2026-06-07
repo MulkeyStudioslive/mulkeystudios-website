@@ -17,9 +17,9 @@ Deployment reminder:
 - Make sure the website is public before resubmitting.
 - Test the exact homepage URL in a private/incognito window.
 - Test on mobile and desktop.
-- Make sure the official TikTok application link opens correctly on mobile and desktop.
+- Make sure every Apply button opens the official TikTok/Backstage link on mobile and desktop.
 
 
-Update note:
-- Replaced the old Google Form link with the official TikTok/Backstage Creator Network application link.
-- Application flow now explains that TikTok checks eligibility first, then Mulkey Studios can send the official Backstage invite if eligible.
+Direct-link update:
+- Every Apply link now points directly to https://www.tiktok.com/t/ZTBUme15k/.
+- No page should send creators to the old Google Form.
