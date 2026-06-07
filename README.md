@@ -5,7 +5,7 @@ This version removes third-party platform names from the public website copy and
 Main message:
 - Creator-first LIVE support
 - Free to apply
-- LIVE access required
+- official eligibility checked
 - No forced format
 - No fake guarantees
 - Creator pathways and technical support emphasized
